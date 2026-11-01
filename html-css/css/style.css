@@ -29,7 +29,7 @@ header nav {
   align-items: center;
   flex-wrap: wrap;
   gap: 0.5rem;
-  background-color: #02a48d;
+  background-color: #005f52;
   padding: 0.75rem;
 }
 
@@ -50,11 +50,11 @@ header nav div a {
 
 header nav div a:hover {
   background-color: #ffd380;
-  color: #02a48d;
+  color: #005f52;
 }
 header nav div a.activeNow {
   background-color: #ffedcc;
-  color: #02a48d;
+  color: #005f52;
 }
 
 body {
@@ -134,5 +134,5 @@ main {
 }
 
 .contact-container img {
-  max-width: 12rem;
+  max-width: 50%;
 }
